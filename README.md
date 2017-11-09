@@ -1,6 +1,6 @@
 # [openEO](http://openeo.org/) software development guidelines
 
-Edzer Pebesma; openeo team
+openEO development team
 
 [![Status](https://img.shields.io/badge/Status-proof--of--concept-yellow.svg)]()
 
