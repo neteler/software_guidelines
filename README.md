@@ -39,6 +39,8 @@ Software documentation shall include:
 
 Each repository's `README.md` shall point to the documentation.
 
+Reference documentation shall be written using well-defined reference documentation language, such as [RFC2119](https://tools.ietf.org/html/rfc2119) or [arc42](http://arc42.org), and refer to the definitions used.
+
 ## Software review
 
 * sustainable software development shall take place by always having two persons involved in a change to the master branch: individuals push to branches, pull request indicate readiness to be taken up in the master branch, a second developer reviews the pull request before merging it into the master branch.
