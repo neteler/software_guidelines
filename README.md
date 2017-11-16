@@ -48,7 +48,7 @@ Reference documentation shall be written using well-defined reference documentat
 
 ## Test-driven development
 
-Software shall be developed in a test-driven fashion, meaning that while the code is written, tests are developed that verify, to a reasonable extent, the correctness of the code. Tools such as [codecov.io](https://codecov.io/g) to automatically indicate the amount of code covered by tests, and code that is not covered by tests shall be used in combination with a continuous integration framework.
+Software shall be developed in a test-driven fashion, meaning that while the code is written, tests are developed that verify, to a reasonable extent, the correctness of the code. Tools such as [codecov.io](https://codecov.io/) to automatically indicate the amount of code covered by tests, and code that is not covered by tests shall be used in combination with a continuous integration framework.
 
 ## Continuous integration
 
@@ -83,5 +83,5 @@ Instances of abusive, harassing, or otherwise unacceptable behavior may be repor
 opening an issue or contacting one or more of the project maintainers.
 
 This Code of Conduct is adapted from the Contributor Covenant 
-(http:contributor-covenant.org), version 1.0.0, available at 
+(http://contributor-covenant.org), version 1.0.0, available at
 http://contributor-covenant.org/version/1/0/0/
